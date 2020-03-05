@@ -3,6 +3,6 @@
 ## Proekt po Softversko inzenerstvo za pochetok :) 
 
 ### Prva mala shala hehe 
-### Greska.
+### Greshka.
 ### Mala shala.
 
