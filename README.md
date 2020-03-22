@@ -3,6 +3,6 @@
 ## Proekt po Softversko inzenerstvo za pochetok :( 
 
 ### Prva mala shala hehe 
-### Tochka.
+### Izvichnik.
 ### Mala shala.
 
