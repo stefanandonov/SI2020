@@ -2,9 +2,5 @@
 
 ## Proekt po Softversko inzenerstvo za pochetok :( 
 
-
-## Proekt po Softversko inzenerstvo za pochetok :( 
-
-
-## Proekt po Softversko inzenerstvo za pochetok :( 
+Martin Stojkovski 173196
 
