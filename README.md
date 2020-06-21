@@ -1,6 +1,6 @@
 # SI2020
 
-## Software Engineering Project to Begin 
+## Software Engineering first project
 
 Martin Stojkovski 173196
 
