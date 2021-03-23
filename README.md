@@ -1,8 +1,6 @@
 # SI2020
 
-## Proekt po Softversko inzenerstvo za pochetok :( 
+## Software Engineering first project
 
-### Prva mala shala hehe 
-### Zapirka.
-### Mala shala.
+Martin Stojkovski 173196
 
